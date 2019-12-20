@@ -1,0 +1,45 @@
+{
+  "name": "simple-trade",
+  "version": "1.0.0",
+  "description": "simple trading bot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skhetcho/simple-trade.git"
+  },
+  "keywords": [
+    "simple-trade",
+    "trading",
+    "bot",
+    "bot",
+    "trading",
+    "trade",
+    "bot",
+    "stock",
+    "bot",
+    "bitcoin",
+    "bot",
+    "bitcoin",
+    "trading",
+    "bot",
+    "crypto",
+    "bot",
+    "crypto",
+    "trading",
+    "bot"
+  ],
+  "author": "Souren Khetcho",
+  "license": "NONE",
+  "bugs": {
+    "url": "https://github.com/skhetcho/simple-trade/issues"
+  },
+  "homepage": "https://github.com/skhetcho/simple-trade",
+  "dependencies": {
+    "death": "^1.1.0",
+    "request": "^2.88.0"
+  }
+}
